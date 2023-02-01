@@ -1,0 +1,15 @@
+{
+  "name": "webpack-sample",
+  "version": "1.0.0",
+  "description": "webpack sample",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
